@@ -1,0 +1,26 @@
+
+
+.toDoItem{
+    display: flex;
+    flex-direction: row;
+}
+
+.note{
+    flex-basis: 30%;
+    align-self: flex-start;
+    margin-left: 20px;
+    
+}
+
+.delete-btn{
+    margin-left: 5px;
+}
+
+.num{
+    width: 1em;
+}
+
+.hidden{
+    visibility: hidden;
+    display: none;
+}
